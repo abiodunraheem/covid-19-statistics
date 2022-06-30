@@ -42,6 +42,9 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
+```bash
+https://github.com/abiodunraheem/covid-19-statistics.git
+```
 
 ```bash
 npm install
