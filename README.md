@@ -26,7 +26,7 @@
 [Live Demo Link](https://62bb0e3e5ee5341abc51b517--jolly-douhua-57a5de.netlify.app/)
 
 ## Live video 
-[Live video]()
+[Live video](https://www.loom.com/share/7c7148b35edd44428e817e76219935b1)
 
 
 
